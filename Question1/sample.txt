@@ -1,0 +1,8 @@
+hi.
+we are rohan and ayush from mathematics and computing.
+this is the sample text file for the question one of the assignment one.
+just to be sure i will enlist all the alphabets in the following line.
+abcdefghijklmnopqrstuvwxyz.
+we will encode this file and then decode it to show that huffman is a lossless technique used for data compression.
+we have put good amount of efforts in this assignment and expect to obtain good grades.
+thank you.
